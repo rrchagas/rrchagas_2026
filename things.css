@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.is-3-desktop .things  {
+  color: #999!important;
+  text-decoration: none!important;
+}
+
+.is-3-desktop .things a {
+  color: #393535!important;
+  text-decoration: none!important;
+}
+
+.is-3-desktop .things a:hover {
+  color: #999!important;
+  text-decoration: none!important;
+}
+
+
+.is-3-desktop .things a:active {
+  color: #333!important;
+}
