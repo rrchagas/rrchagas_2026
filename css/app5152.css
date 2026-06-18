@@ -745,11 +745,11 @@ html, body {
       position: absolute;
       top: -180px; }
     .swiper-slide.service .inner #icon-1 {
-      background-image: url(../wordpress.blahlab.com/plexar/wp-content/themes/plexar-by-honryou/images/@stock/service-1.html); }
+      background-image: url(../rrchagas/plexar/wp-content/themes/plexar-by-honryou/images/@stock/service-1.html); }
     .swiper-slide.service .inner #icon-2 {
-      background-image: url(../wordpress.blahlab.com/plexar/wp-content/themes/plexar-by-honryou/images/@stock/service-2.html); }
+      background-image: url(../rrchagas/plexar/wp-content/themes/plexar-by-honryou/images/@stock/service-2.html); }
     .swiper-slide.service .inner #icon-3 {
-      background-image: url(../wordpress.blahlab.com/plexar/wp-content/themes/plexar-by-honryou/images/@stock/service-3.html); }
+      background-image: url(../rrchagas/plexar/wp-content/themes/plexar-by-honryou/images/@stock/service-3.html); }
 
 .swiper-slide.service:hover #icon-1 {
   animation: BackgroundAnimated-t-b 2s linear infinite; }
