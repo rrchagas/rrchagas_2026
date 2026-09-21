@@ -750,6 +750,9 @@ html, body {
     .swiper-slide.service .inner #icon-3 {
       background-image: url(../../images/@stock/service-3.png); }
 
+    .swiper-slide.service .inner #icon-4 {
+      background-image: url(../../images/@stock/service-4.png); }
+
 .swiper-slide.service:hover #icon-1 {
   animation: BackgroundAnimated-t-b 2s linear infinite; }
 
@@ -757,6 +760,9 @@ html, body {
   animation: BackgroundAnimated-l-r 2s linear infinite; }
 
 .swiper-slide.service:hover #icon-3 {
+  animation: BackgroundAnimated-r-l 2s linear infinite; }
+
+.swiper-slide.service:hover #icon-4 {
   animation: BackgroundAnimated-r-l 2s linear infinite; }
 
 .swiper-slide.service.last {
